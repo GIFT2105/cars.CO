@@ -1,0 +1,46 @@
+{
+    "title": "Newsletter",
+    "links": [
+      {
+        "title": "Sign up now for the latest car news and specials:",
+        "url": "/"
+      },
+      {
+        "type": "input",
+        "placeholder": "Your email address"
+     
+      },
+      {
+        "type": "button",
+        "title": "Sign up"
+      },
+      {
+        "title": "By submitting, you agree to Cars.co.za's Terms of Service and Privacy Policy.",
+        "url": "/"
+      },
+    ],
+
+  },
+  {
+    "title": "Mobile Experience",
+    "links": [
+      {
+        "title": "Enjoy the Cars.co.za experience on your phone now!"
+      },
+      {
+        "type": "svg",
+        "url": "/google-play-badge-logo-svgrepo-com.svg"
+      },
+      {
+        "type": "svg",
+        "url": "/download-on-the-app-store-apple-logo-svgrepo-com.svg"
+      },
+      {
+        "type": "social-icons",
+        "icons": [
+          { "platform": "Facebook", "url": "/facebook-icon.svg" },
+          { "platform": "Instagram", "url": "/instagram-icon.svg" },
+          { "platform": "YouTube", "url": "/youtube-icon.svg" },
+          { "platform": "TikTok", "url": "/tiktok-icon.svg" }
+        ]
+      }
